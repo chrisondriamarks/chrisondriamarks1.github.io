@@ -1,0 +1,104 @@
+h1 {
+  font-family:sans-serif;
+  color: GoldenRod;
+  font-size:50px
+}
+.categories {
+  font-family:sans-serif;
+  font-weight:bold;
+  color:OliveDrab;
+  font-size:33px;
+  background-color:LemonChiffon;
+}
+body {
+  background-color: LemonChiffon;
+}
+.books {
+  font-family:;
+  color:Teal;
+  font-size:25px;
+}
+.movies {
+  color:Tomato;
+  font-size:25px;
+}
+.games {
+  color:LightSeaGreen;
+  font-size:25px;
+}
+#entirebooks {
+  background-color:AliceBlue;
+}
+#whyilikeit2 {
+  background-color:White;
+  font-size:20px;
+  color:IndianRed;
+  font-weight:bold;
+}
+#whyilikeit1 {
+  background-color:white;
+  font-size:20px;
+  color:IndianRed;
+  font-weight:bold;
+}
+#whyilikeit3 {
+  background-color:white;
+  font-size:20px;
+  color:IndianRed;
+  font-weight:bold;
+}
+#entiremovies {
+  background-color:Lavender
+}
+#entiregames {
+  background-color:LavenderBlush;
+}
+#whyilikeit4 {
+  background-color:white;
+  font-size:20px;
+  color:IndianRed;
+  font-weight:bold;
+}
+#whyilikeit5 {
+  background-color:white;
+  font-size:20px;
+  color:IndianRed;
+  font-weight:bold;
+}
+#whyilikeit6 {
+  background-color:white;
+  font-size:20px;
+  color:IndianRed;
+  font-weight:bold;
+}
+#whyilikeit7 {
+  background-color:white;
+  font-size:20px;
+  color:IndianRed;
+  font-weight:bold;
+}
+#whyilikeit8 {
+  background-color:white;
+  font-size:20px;
+  color:IndianRed;
+  font-weight:bold;
+}
+.shows {
+  color:LightSkyBlue;
+  font-size:25px;
+}
+#entireshows {
+  background-color:PapayaWhip;
+}
+#whyilikeit9 {
+  background-color:white;
+  font-size:20px;
+  color:IndianRed;
+  font-weight:bold;
+}
+#whyilikeit10 {
+  background-color:white;
+  font-size:20px;
+  color:IndianRed;
+  font-weight:bold;
+}
